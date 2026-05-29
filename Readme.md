@@ -6,7 +6,7 @@ Bem-vindo ao nosso espaço oficial! O **Eu Concego Jogar** é uma iniciativa foc
 
 ## 👥 Quem Somos
 
-*   **Adrieli Lima:** Co-fundadora, Designer de Interface (UX/UI) e Analista de Qualidade Visual. É a mente por trás da projeção estética, das formas e dos testes de usabilidade inclusiva das nossas ferramentas.
+*   **Adri Lima:** Co-fundadora, Designer de Interface (UX/UI) e Analista de Qualidade Visual. É a mente por trás da projeção estética, das formas e dos testes de usabilidade inclusiva das nossas ferramentas.
 *   **Anderson Carvalho:** Co-fundador e Desenvolvedor Fullstack. É o responsável pela arquitetura de código, lógica de programação e engenharia dos sistemas.
 
 ---
@@ -30,13 +30,13 @@ Motor de automação acadêmica que agiliza a geração e o envio em massa de ce
 
 ## ☕ Apoie o Nosso Trabalho Independente
 Gostou de algum projeto ou o nosso software resolveu o seu problema? Você pode apoiar a nossa marca nos pagando um café para incentivar o desenvolvimento das versões v2 mais robustas!
-*   **Chave Pix (PicPay):** `euconcego@gmail.com`
+*   **Chave Pix (E-mail):** `euconcego@gmail.com`
 
 ---
 
 ## 📱 Soluções Corporativas e Customização
 Desenvolvemos **versões robustas e customizadas** do Canudo e do Manuscrito para instituições de ensino técnico, faculdades e empresas, adaptando templates, regras de bancas e relatórios de estágio sob medida para a sua necessidade.
-*   [Fale conosco no WhatsApp Business do Euconcegojogar](https://wa.me/seu-numero-aqui)
+*   [Fale conosco no WhatsApp Business do Euconcegojogar](https://wa.me/553287132634)
 
 ---
 
