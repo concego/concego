@@ -18,9 +18,13 @@ Jogo de combinação de trincas (estilo Candy Crush) totalmente inclusivo, sonif
 *   [Assistir ao vídeo demonstrativo no YouTube](https://youtu.be/ijsS8-eemFI)
 *   [Jogar o Sinfonia das Gemas na Web](https://concego.github.io/sinfonia-das-gemas)
 
+### 📜 Manuscrito (v2) - Estúdio de Formatação
+Versão profissional e acessível para criação de documentos e exportação de PDFs com templates comerciais. Totalmente offline e acessível.
+*   [Usar o Manuscrito v2 na Web](https://concego.github.io/manuscrito-v2)
+
 ### 📜 Manuscrito (v1)
-Estúdio minimalista de escrita e formatação de textos (crônicas, contos e relatórios) com suporte estruturado às normas ABNT.
-*   [Usar o Manuscrito na Web](https://concego.github.io/manuscrito)
+Versão clássica com suporte a normas ABNT.
+*   [Acessar v1](https://concego.github.io/manuscrito)
 
 ### 🎓 Canudo (v1)
 Motor de automação acadêmica que agiliza a geração e o envio em massa de certificados para cursos e treinamentos.
@@ -42,3 +46,4 @@ Desenvolvemos **versões robustas e customizadas** do Canudo e do Manuscrito par
 
 ## ⚖️ Licença
 Este repositório e os projetos aqui listados estão sob a [Licença MIT](LICENSE). Sinta-se livre para usar, estudar e contribuir com o código, respeitando os direitos autorais da marca.
+
